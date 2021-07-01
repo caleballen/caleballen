@@ -9,6 +9,8 @@ I'm a keen techie with a passion for all things computers! I'm currently pursuin
 * In my free time I'm currently working on several projects including an **Android** game using **libgdx** and **netty** with some nice physics and client-server architecture. I might want to do something with this in the future so details are kinda *hush-hush* 😯
 
 Reach me on [![LinkedIn][1.2]][1] or drop me an email at me@caleballen.dev
+[1]: https://www.linkedin.com/in/caleb-m-allen/
+[1.2]: https://raw.githubusercontent.com/caleballen/caleballen/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caleballen&layout=compact)
 
