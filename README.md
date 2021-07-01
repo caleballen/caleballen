@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-caleballen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-m-allen/)](https://www.linkedin.com/in/caleb-m-allen/)
 [![Gmail Badge](https://img.shields.io/badge/-me@caleballen.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@caleballen.dev)](mailto:me@caleballen.dev)
 
-I'm a keen techie with a passion for all things computers! I'm currently pursuing a Masters in Computer Science at Queen's University Belfast.
+I'm a keen techie with a passion for all things computers! I'm currently pursuing a Master's in Computer Science at Queen's University Belfast.
 
 * I'm particularly interested in **C/C++**, **Java**, **Linux**, **networking** and **efficient programming**.
 * I've spent a year working with **ReactJS** on my placement and have worked with **machine learning** tech and **malware** over the last year of university.
