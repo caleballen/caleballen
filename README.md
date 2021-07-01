@@ -11,3 +11,5 @@ Reach on [![LinkedIn][1.2]][1] or drop me an email at me@caleballen.dev
 
 [1]: https://www.linkedin.com/in/caleb-m-allen/
 [1.2]: https://raw.githubusercontent.com/caleballen/caleballen/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+`Whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ.` [`Colossians 3:23-24`](https://www.biblegateway.com/passage/?search=Colossians+3%3A23-24&version=ESV)
