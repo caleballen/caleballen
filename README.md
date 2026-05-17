@@ -7,7 +7,7 @@ I'm a keen techie with a passion for all things computers!
 
 * I'm particularly interested in **C/C++**, **Java**, **Linux**, **networking** and **efficient programming**.
 * I've worked with **machine learning** tech, **malware** and **CUDA** as part of my university course.
-* I'm currently working with **ReactJS**, **Typescript** and **Vert.x** in my job as a full stack developer.
+* I'm currently working with **Go** and **Java** in my job as a backend software developer.
 * In my free time I'm currently working on several projects including an **Android** game using **libgdx** and **netty** with some nice physics and client-server architecture. I might want to do something with this in the future so details are kinda *hush-hush* 😯
 
 Reach me on [![LinkedIn][1.2]][1] or drop me an email at me@caleballen.dev
